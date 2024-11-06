@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonhuijae&count_bg=%2378CAFF&title_bg=%23555555&icon=cloudbees.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text="Welcome!")
+![header](https://capsule-render.vercel.app/api?type=cylinder&text="Welcome!"&animation=fadeIn&fontColor=FFFFFF&color=25d8f8)
 
 <!--
 **Wonhuijae/Wonhuijae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
